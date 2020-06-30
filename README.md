@@ -14,3 +14,18 @@
 - Seet generated highest revenue in South Region
 
 Transactions and Revenue were related to each other
+
+
+# Data
+The store dataset contains 10,000 observations or we can call it transactions of 5 variables.
+Each row represents the transaction made by the reps.
+Each column contains the attributes of this dataset include:
+reps - Representative who are involved in the promotion and sale of the products in their respective region.
+products - There are 12 brands of products promoted by the company.
+qty - Quantity sold in units
+revenue - Revenue generated for each transaction
+region - There are 4 regions - East, North, South and West India.
+
+It would also be possible to predict the revenue and make it a regression task.
+
+https://www.kaggle.com/seetzz/market-segmentation
