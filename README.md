@@ -13,7 +13,7 @@
 - Rachna generated highest revenue in North Region
 - Seet generated highest revenue in South Region
 
-Transactions and Revenue were related to each other
+Transactions and Revenue showed relation with each other
 
 
 # Data
