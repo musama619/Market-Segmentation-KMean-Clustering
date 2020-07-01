@@ -1,5 +1,7 @@
 # Market-Segmentation-KMean-Clustering
 
+![download](https://user-images.githubusercontent.com/34093998/86288624-a78a3d80-bc03-11ea-9a1d-60fcd4b352c8.jpg)
+
 # Findings:
 
 - Seet did highest no. of transactions
@@ -31,4 +33,4 @@ It would also be possible to predict the revenue and make it a regression task.
 https://www.kaggle.com/seetzz/market-segmentation
 
 
-![download](https://user-images.githubusercontent.com/34093998/86288624-a78a3d80-bc03-11ea-9a1d-60fcd4b352c8.jpg)
+
